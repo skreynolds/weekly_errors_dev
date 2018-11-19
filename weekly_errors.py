@@ -7,7 +7,7 @@ from weekly_errors_utils import *
 
 
 if __name__ == '__main__':
-	'''
+	
 	######################################
 	# IMPORT AND CHECK INTEGREITY (Douglas)
 	######################################
@@ -107,7 +107,7 @@ if __name__ == '__main__':
 
 	print('Douglas error report complete.\n')
 	
-	'''
+	
 	######################################
 	# IMPORT AND CHECK INTEGREITY (Margaret)
 	######################################
